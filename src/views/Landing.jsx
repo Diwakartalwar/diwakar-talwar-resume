@@ -1,4 +1,4 @@
-import RoleCard from "*/components/RoleCard";
+import RoleCard from "../components/RoleCard";
 
 function Landing() {
   return (
