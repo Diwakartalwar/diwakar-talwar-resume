@@ -1,18 +1,109 @@
-# React + Vite
+# 💼 Personal Resume Website (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **personal resume website** built with React and deployed on Vercel.  
+Designed to showcase skills, experience, and projects in a clean, minimal UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Fast and responsive UI
+- 🎨 Clean dark-themed design
+- 📊 Key metrics showcase (projects, data work, experience)
+- 🧠 Role-focused sections (Data Analyst, Full Stack Developer, Product/UX)
+- 📱 Mobile-friendly layout
+- 🚀 Deployed on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** CSS
+- **Deployment:** Vercel
+
+---
+
+## 📂 Project Structure
+```
+src/
+│
+├── components/     # UI components
+├── views/          # Main pages
+├── assets/         # Images / icons
+├── App.js
+└── index.js
+```
+
+---
+
+## ⚙️ Setup & Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/resume-react.git
+cd resume-react
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start development server
+
+```bash
+npm start
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 🌍 Deployment
+
+This project is deployed using **Vercel**.
+
+To deploy your own:
+1. Push code to GitHub  
+2. Import project in Vercel  
+3. Click **Deploy**  
+
+---
+
+## 🎯 Future Improvements
+
+- Add Projects section  
+- Add Resume PDF download  
+- Add animations (Framer Motion)  
+- Add contact form  
+- Add theme switcher  
+
+---
+
+## 👨‍💻 Author
+
+**Diwakar Talwar**
+
+- Full Stack Developer  
+- Data Systems & Dashboard Engineering  
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
